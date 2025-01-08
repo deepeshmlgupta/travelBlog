@@ -19,35 +19,12 @@ Ads Free
 https://bsestore.vercel.app/
 ```
 
-For Demo Use 
-```
-https://free-netflix-4.pages.dev/
-```
-```
-https://free-netflix.pages.dev/
-```
-
-```
-https://free-netflix-5xi.pages.dev/
-```
-
-```
-https://free-netflix-site.netlify.app/
-```
-
-```
-https://free-netflix-web.vercel.app/
-```
+F``
 
 
 ## Screensort
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/113350806/268450088-56e6c639-1170-494a-9466-8f795516a00e.png" alt="logo" width="100%" height="auto" />
 
-## Preview 
-
-
-
-https://user-images.githubusercontent.com/113350806/236665488-6544b4a1-80ff-41c1-b549-0164c85685cf.mp4
 
 
 
